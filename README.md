@@ -4,7 +4,7 @@
 
 * [Algorithm](Algorithm/Algorithm.md)
 * [Express-4.x](Express/Express-4.x.md)
-* [Javascript](JS/Javascript)
+* [Javascript](JS/Javascript.md)
 * [JSCompatiable](JS/Compatiable.md)
 * [JSES6](JS/ES6.md)
 * [JS](JS/touchEvent.md)
