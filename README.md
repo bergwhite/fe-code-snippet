@@ -12,4 +12,5 @@
 * [Mongoose](MongoDB/Mongoose.md)
 * [SocketIO](NodeJS/SocketIO.md)
 * [Python](Python/Python.md)
+* [PythonPillow](Python/Pillow.md)
 * [Sublime](Sublime/Sublime.md)
